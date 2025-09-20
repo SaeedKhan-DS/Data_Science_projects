@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+plotly
+statsmodels
+numpy
+scikit-learn
+lightgbm
+fastapi
+joblib
+holidays
